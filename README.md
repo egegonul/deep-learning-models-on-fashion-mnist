@@ -11,5 +11,5 @@ The code trains on the data at an arbitrary location and saves the following res
 
 To run the code: 
 
-python train.py dataset_path model_name save_path
+*python train.py dataset_path model_name save_path*
 
