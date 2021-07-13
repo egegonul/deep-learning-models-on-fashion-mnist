@@ -1,5 +1,6 @@
 # Description
 5 different neural network acrhitecutres are tested on the fashion MNIST dataset. Following 5 models are used:
+
 ![](archs.PNG)
 
 The code trains on the data at an arbitrary location and saves the following results as a dict file to an arbitrary location:
